@@ -14,7 +14,7 @@ Questo repository contiene il codice sorgente, gli esperimenti e i benchmark svi
 
 ### Algoritmi Implementati
 * Accelerated Particle Swarm Optimization (APSO)
-* Ant Colony Optimization (ACO)
+* Ant Colony Optimization (ACO) applicato a TSP (Traveling Salesman PRoblem)
 * Artificial Bee Colony (ABC)
 
 ## Struttura
