@@ -2,11 +2,12 @@
 Questo repository contiene il codice sorgente, gli esperimenti e i benchmark sviluppati per la tesi di laurea:  
 **"Swarm Intelligence: Analisi Comparativa di Algoritmi Metaeuristici ispirati dalla Natura"**
 
+```text
 **Laureanda:** Chiara Vigna
 **Relatore:** Prof. Mirco Rampazzo
 **Anno Accademico:** 2025/2026
 **Corso di Laurea:** Ingegneria Informatica
-
+```
 ---
 ## Panoramica del progetto
 **Descrizione:** Codice sorgente e algoritmi di Swarm Intelligence per la tesi.
@@ -17,6 +18,7 @@ Questo repository contiene il codice sorgente, gli esperimenti e i benchmark svi
 * Artificial Bee Colony (ABC)
 
 ## Struttura
+```text
 swarm-intelligence-thesis/
 │
 ├── algorithms/
@@ -41,7 +43,7 @@ swarm-intelligence-thesis/
 │
 ├── .gitignore               % File per ignorare i file temporanei MATLAB
 └── README.md                % Guida rapida all'esecuzione
-
+```
 
 ## Riferimenti Bibliografici
 
