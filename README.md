@@ -3,10 +3,10 @@ Questo repository contiene il codice sorgente, gli esperimenti e i benchmark svi
 **"Swarm Intelligence: Analisi Comparativa di Algoritmi Metaeuristici ispirati dalla Natura"**
 
 
-** Laureanda:** Chiara Vigna
-** Relatore:** Prof. Mirco Rampazzo
-** Anno Accademico:** 2025/2026
-** Corso di Laurea:** Ingegneria Informatica
+**Laureanda:** Chiara Vigna
+**Relatore:** Prof. Mirco Rampazzo
+**Anno Accademico:** 2025/2026
+**Corso di Laurea:** Ingegneria Informatica
 
 ---
 ## Panoramica del progetto
