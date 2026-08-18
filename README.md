@@ -22,12 +22,12 @@ Questo repository contiene il codice sorgente, gli esperimenti e i benchmark svi
 swarm-intelligence-thesis/
 │
 ├── algorithms/
-│   ├── apso.m               % Accelerated Particle Swarm Optimization
-│   ├── abc.m                % Artificial Bee Colony
-│   └── aco_tsp.m            % Ant Colony Optimization per TSP (completo e autonomo)
+│   ├── APSO.m               % Accelerated Particle Swarm Optimization
+│   ├── ABC.m                % Artificial Bee Colony
+│   └── TSP_ACO.m            % Ant Colony Optimization per TSP (completo e autonomo)
 │
 ├── benchmarks/
-│   ├── rastrigin.m          % Funzione benchmark Rastrigin
+│   ├── Rastrigin.m          % Funzione benchmark Rastrigin
 │   ├── ackley.m             % Funzione benchmark Ackley
 │   └── drop_wave.m          % Funzione benchmark Drop-Wave
 │
