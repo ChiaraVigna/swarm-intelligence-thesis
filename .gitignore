@@ -1,0 +1,9 @@
+# File temporanei e di salvataggio automatico di MATLAB
+*.asv
+*.autosave
+*.m~
+
+# File binari e librerie compilate
+*.slxc
+*.mex*
+slprj/
